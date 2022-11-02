@@ -256,8 +256,7 @@ function avancemosU2L2(){
     llamarse, to be called
     reírse, to laugh
     ser codo, to be greedy
-    relajarse, to relax
-    `
+    relajarse, to relax`
     //don't override the user's choice if they had one
     if(document.getElementById("term1").checked == false && document.getElementById("term2").checked == false){
         document.getElementById("term1").checked = true
