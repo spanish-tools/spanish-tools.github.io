@@ -281,3 +281,6 @@ function show_answer(id){
     }
     
 }
+
+//Note:
+//Spanish Tools is a project of the Erica Corral Project, it is adapted from the code for OpenTest.
