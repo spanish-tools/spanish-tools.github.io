@@ -239,7 +239,7 @@ function avancemosU2L2(){
     normalmente,normally
     raramente,rarely
     levantarse,to get up
-    inodoro,toilet
+    el inodoro,toilet
     el lavamanos, sink
     el desperator, alarm clock
     ponerse la pijama y las pantuflas, put on the pijama and the slippers
