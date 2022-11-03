@@ -196,7 +196,7 @@ function avancemosU2L2(){
     dormirse,to fall asleep
     ducharse,to take a shower
     encender la luz,to turn on the light
-    entrenarse,train; work out
+    entrenarse,train; work out (starting with "e")
     lavarse,to wash oneself
     maquillarse,to put on makeup
     peinarse,to comb one's hair
@@ -247,7 +247,7 @@ function avancemosU2L2(){
     hacer la cama, to make the bed (starting with "H")
     tender la cama, to make the bed (starting with "T")
     tomar la siesta, to take the siesta
-    hacer ejercicio, to exercise/workout
+    hacer ejercicio, to exercise/workout (starting with "H")
     cortarse, to cut oneself (e.g. haircut, papercut, etc.)
     rasurarse, to shave oneself (starting with "r")
     teñirse, to dye one's hair
