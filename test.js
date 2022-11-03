@@ -199,7 +199,7 @@ function avancemosU2L2(){
     entrenarse,train; work out (starting with "e")
     lavarse,to wash oneself
     maquillarse,to put on makeup
-    peinarse,to comb one's hair
+    peinarse,to comb oneself
     ponerse la ropa,to put on clothes
     vestirse (e-i),to get dressed
     secarse,to dry oneself
