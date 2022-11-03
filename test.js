@@ -228,8 +228,8 @@ function avancemosU2L2(){
     la toalla,towel
     la ropa,clothing
     primero,first
-    entonces,then;so
-    luego,then
+    entonces,then;so (starting with "e")
+    luego,then (starting with "l")
     más tarde,later on
     por fin,finally
     al final,in the end
