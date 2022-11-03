@@ -250,9 +250,9 @@ function avancemosU2L2(){
     hacer ejercicio, to exercise/workout (starting with "H")
     cortarse, to cut oneself (e.g. haircut, papercut, etc.)
     rasurarse, to shave oneself (starting with "r")
-    teñirse, to dye one's hair
+    teñirse (e-i), to dye one's hair
     pintarse, to paint oneself (e.g. put makeup on oneself)
-    morise, to die
+    morise (o-ue), to die
     llamarse, to be called
     reírse, to laugh
     ser codo, to be greedy
