@@ -243,7 +243,7 @@ function avancemosU2L2(){
     el lavamanos, sink
     el desperator, alarm clock
     ponerse la pijama y las pantuflas, put on the pijama and the slippers
-    secarse el cuepo, to dry oneself's body
+    secarse el cuelpo, to dry oneself's body
     hacer la cama, to make the bed (starting with "H")
     tender la cama, to make the bed (starting with "T")
     tomar la siesta, to take the siesta
