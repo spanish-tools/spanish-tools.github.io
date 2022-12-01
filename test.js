@@ -192,7 +192,7 @@ function avancemosU2L2(){
     arreglarse,to get ready
     bañarse,to take a bath
     cepillarse los dientes,to brush one's teeth
-    despertarse (e-ie),to wake up
+    despertarse (e:ie),to wake up
     dormirse,to fall asleep
     ducharse,to take a shower
     encender la luz,to turn on the light
@@ -201,7 +201,7 @@ function avancemosU2L2(){
     maquillarse,to put on makeup
     peinarse,to comb oneself
     ponerse la ropa,to put on clothes
-    vestirse (e-i),to get dressed
+    vestirse (e:i),to get dressed
     secarse,to dry oneself
     tener prisa,to be in a hurry
     tener sueño,to be sleepy
@@ -250,9 +250,9 @@ function avancemosU2L2(){
     hacer ejercicio, to exercise/workout (starting with "H")
     cortarse, to cut oneself (e.g. haircut, papercut, etc.)
     rasurarse, to shave oneself (starting with "r")
-    teñirse (e-i), to dye one's hair
+    teñirse (e:i), to dye one's hair
     pintarse, to paint oneself (e.g. put makeup on oneself)
-    morise (o-ue), to die
+    morise (o:ue), to die
     llamarse, to be called
     reírse, to laugh
     ser codo, to be greedy
@@ -341,7 +341,7 @@ function avancemosU2L2(){
     acampar,to camp
     mandar,to send
     montar (en bicicleta / a caballo),to ride (a bike, a horse)
-    acostarse (o-ue),to go to bed
+    acostarse (o:ue),to go to bed
     arreglarse,to get ready
     apagar,to turn off
     encender (e:ie),to turn on
