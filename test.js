@@ -269,6 +269,118 @@ function avancemosU2L2(){
   }
 
 
+  function avancemosReview(){
+    document.getElementById("terms").value = `ser,to be (DOCTOR)
+    estar,to be (PLACE)
+    haber,to have
+    hacer,to do, to make
+    poder (o:ue),to be able to
+    decir (e:i),to say, to tell
+    ir,to go
+    ver,to see
+    dar,to give
+    saber,to know
+    querer (e:ie),to want
+    llegar,to arrive
+    pasar,to pass / to spend time / to happen
+    deber,should
+    poner,to put
+    parecer,to seem
+    quedar,to stay, to remain
+    creer,to believe, to think
+    hablar,to talk, to speak
+    llevar,to bring, to carry
+    dejar,to leave, to let
+    seguir (e:i),to follow, to continue
+    encontrar,to find
+    llamar(se),to call, to be called; to be named
+    venir,to come, to arrive
+    pensar (e:ie),to think, to plan
+    salir,to leave, to go out
+    volver (o:ue),to return
+    tomar,to take, to drink
+    conocer,to know
+    vivir,to live
+    sentirse (e:ie),to feel (emotionally, physically)
+    mirar,to look at, to watch
+    contar (o:ue),to count; to tell
+    empezar (e:ie),to start, to begin
+    esperar,to wait
+    buscar,to look for, to search
+    entrar,to enter, to go into
+    trabajar,to work
+    escribir,to write
+    entender (e:ie),to understand
+    pedir (e:i),to ask for, to request
+    recordar (o:ue),to remember
+    terminar,to end; to finish
+    conseguir (e:i),to get, obtain
+    servir (e:i),to serve
+    sacar,to take out
+    necesitar,to need
+    leer,to read
+    oír,hear, listen
+    comprender,to understand
+    preguntar,to ask
+    tocar,to touch, to play an instrument
+    estudiar,to study
+    correr,to run
+    pagar,to pay
+    ayudar,to help
+    gustar,to like, to be pleasing
+    jugar,to play
+    escuchar,to listen
+    almorzar (el almuerzo),to eat lunch (lunch)
+    cenar (la cena),to have dinner (dinner)
+    desayunar (el desayuno),to eat breakfast (breakfast)
+    costar (o:ue),to cost
+    regatear,to bargain
+    preferir (e:ie),to prefer
+    practicar,to practice
+    abordar,to board
+    acampar,to camp
+    mandar,to send
+    montar (en bicicleta / a caballo),to ride (a bike, a horse)
+    acostarse (o-ue),to go to bed
+    arreglarse,to get ready
+    apagar,to turn off
+    encender (e:ie),to turn on
+    bañarse,to take a bath
+    lavarse,to wash oneself
+    peinarse,to comb one's hair
+    ganar,to win
+    explicar,to explain
+    escoger,to choose
+    leer,to read
+    traducir,to translate
+    conducir, manejar,to drive
+    recibir,to receive
+    surfear,to surf
+    textear,to text
+    dormirse,to fall asleep
+    aburrir (gustar verb),to bore
+    encantar (gustar verb),to like very much, to love
+    fascinar (gustar verb),to fascinate
+    interesar (gustar verb),to interest
+    preocupar (gustar verb),to worry
+    ponerse,to put on
+    levantar,lift
+    pintarse,to paint
+    cortarse,to cut oneself, to get a haircut
+    pasear,to go for a walk
+    caminar,to walk
+    cantar,to sing`
+    //don't override the user's choice if they had one
+    if(document.getElementById("term1").checked == false && document.getElementById("term2").checked == false){
+        document.getElementById("term1").checked = true
+        document.getElementById("term2").checked = false
+    }
+
+    //get rid of previously existing test content
+    document.getElementById("test-container").innerHTML = ""
+    analyzetext()
+  }
+
 //an IDK hint
 function show_answer(id){
     let answer = "answer"+id
