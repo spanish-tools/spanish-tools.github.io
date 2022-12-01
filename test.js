@@ -279,7 +279,7 @@ function avancemosU2L2(){
     ir,to go
     ver,to see
     dar,to give
-    saber,to know
+    saber,to know (facts)
     querer (e:ie),to want
     llegar,to arrive
     pasar,to pass / to spend time / to happen
@@ -299,7 +299,7 @@ function avancemosU2L2(){
     salir,to leave, to go out
     volver (o:ue),to return
     tomar,to take, to drink
-    conocer,to know
+    conocer,to know (familiar)
     vivir,to live
     sentirse (e:ie),to feel (emotionally, physically)
     mirar,to look at, to watch
