@@ -353,7 +353,7 @@ function avancemosU2L2(){
     escoger,to choose
     leer,to read
     traducir,to translate
-    conducir, manejar,to drive
+    conducir/manejar,to drive
     recibir,to receive
     surfear,to surf
     textear,to text
